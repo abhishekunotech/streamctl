@@ -1,0 +1,7 @@
+package mongo
+
+
+
+func MongoFind(){
+
+}
